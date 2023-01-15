@@ -6,6 +6,7 @@
 #
 
 DEVICE_PATH := device/mobvoi/ricefish
+PLATFORM_PATH := device/mobvoi/ricefish
 
 # For building with minimal manifest
 LC_ALL=C
